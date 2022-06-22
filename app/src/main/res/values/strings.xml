@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="cc">clear sky</string>
+    <string name="weather">Weather</string>
+    <string name="status">status</string>
+    <string name="get">get</string>
+    <string name="re">restart</string>
+    <string name="weathers">Weathers</string>
+    <string name="et_hint">New York…</string>
+    <string name="edit">Edit</string>
+    <string name="btn_add_text">Add</string>
+    <string name="btn_remove_text">Remove</string>
+    <string name="fill_the_field_toast">Fill the field!</string>
+    <string name="no_such_city_toast">No such city!</string>
+    <string name="go_back">go back</string>
+    <string name="loading">Loading…</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
